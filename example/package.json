@@ -13,7 +13,7 @@
     "@ubio/client-library": "file:..",
     "body-parser": "^1.18.3",
     "express": "^4.17.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "snowpack": "^1.6.0"
   },
   "snowpack": {
