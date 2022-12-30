@@ -23,7 +23,7 @@
   "devDependencies": {
     "eslint": "^6.8.0",
     "eslint-config-ub": "^3.0.0",
-    "mocha": "^6.2.3",
+    "mocha": "^10.2.0",
     "node-fetch": "^2.6.0",
     "rimraf": "^3.0.2",
     "rollup": "^1.32.1",
