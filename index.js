@@ -75,7 +75,7 @@ function fetchWrapper(url, fetch, token, opts) {
         credentials: 'omit',
         cache: 'no-store',
         redirect: 'follow',
-        referrer: 'client',
+        referrer: 'https://ub.io/',
         referrerPolicy: 'origin',
         keepalive: false
     };
