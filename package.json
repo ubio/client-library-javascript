@@ -1,6 +1,6 @@
 {
   "name": "@ubio/client-library",
-  "version": "0.11.2",
+  "version": "0.11.3",
   "description": "JavaScript SDK for integrating with ubio.",
   "main": "index.umd.js",
   "module": "index.js",
